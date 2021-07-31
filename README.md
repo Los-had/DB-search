@@ -9,6 +9,7 @@ cd DB-search
 pip install -r requirements.txt
   # instala as dependencias
 ```
+### como executar o programa 
 pronto agora o programa já está instalado e para executar digite:
 ```
 python main.py
